@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @PEEPScoin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  - Email: info@thepeoplescoin.money
+  - Website: thepeoplescoin.money 
+  - Telegram: t.me/thepeoplescoinofficial 
+  - FB:facebook.com/groups/thepeoplescoin/
+  - Twitter: twitter.com/ThePeoples_Coin
+
+
+
+
 
 <!---
 PEEPScoin/PEEPScoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
