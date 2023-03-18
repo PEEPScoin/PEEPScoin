@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @PEEPScoin
 - 📫 How to reach me ...
   - Email: info@thepeoplescoin.money
-  - Website: thepeoplescoin.money 
-  - Telegram: t.me/thepeoplescoinofficial 
-  - FB:facebook.com/groups/thepeoplescoin/
-  - Twitter: twitter.com/ThePeoples_Coin
+  - Website: https://thepeoplescoin.money 
+  - Telegram: https://t.me/thepeoplescoinofficial 
+  - FB: https://facebook.com/groups/thepeoplescoin1/
+  - Twitter: https://twitter.com/ThePeoples_Coin
 
 
 
